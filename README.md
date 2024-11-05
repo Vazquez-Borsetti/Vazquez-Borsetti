@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 ¡Hola! Soy Pablo
+Soy biólogo (UBA) y doctor en Biología (Universidad de Barcelona), con amplia experiencia en análisis de datos neurofisiológicos y modelos estadísticos usando Python y R. Me especializo en transformar datos complejos en visualizaciones claras y en desarrollar modelos que revelen patrones significativos en biología.
 
-<!--
-**Vazquez-Borsetti/Vazquez-Borsetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Mis herramientas principales:
 
-Here are some ideas to get you started:
+    Python (Pandas, Statsmodels, Scikit-learn, Seaborn, Matplotlib)
+    R (modelos estadísticos jerárquicos y multivariados)
+    Análisis de datos neurofisiológicos y neurodesarrollo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Proyectos recientes:
+
+    Modelos jerárquicos aplicados a estudios neurofisiológicos
+    Automatización de análisis de datos masivos en biología
+    Análisis y modelado usando la función de Gompertz
