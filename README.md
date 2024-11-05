@@ -5,7 +5,7 @@ Soy biólogo (UBA) y doctor en Biología (Universidad de Barcelona), con amplia 
 
     Python (Pandas, Statsmodels, Scikit-learn, Seaborn, Matplotlib)
     R (modelos estadísticos jerárquicos y multivariados)
-    Análisis de datos neurofisiológicos y neurodesarrollo.
+    Análisis de datos neurofisiológicos y de neurodesarrollo.
 
 🚀 Proyectos recientes:
 
